@@ -1,0 +1,8 @@
+{
+  "name": "Separate Instance",
+  "description": "A P2P blocker test harness to independently test device-level and household-level isolation on Samsung Galaxy S24 Ultra (Android 17 / One UI 9.0).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
